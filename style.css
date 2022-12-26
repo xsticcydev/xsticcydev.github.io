@@ -1,0 +1,7 @@
+:root {
+    --accent:#ff5151;
+}
+
+.red {
+    color: var(--accent); 
+}
